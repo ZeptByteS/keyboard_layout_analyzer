@@ -17,6 +17,6 @@ http://patorjk.com/keyboard-layout-analyzer/#/load/nKPWJ0tf
 
 
 
-Modified-BEAKL BEAKRAK Modified-MTGAP-Thumbshift:
+Modified-BEAKL BEAKRAK:
 
-http://patorjk.com/keyboard-layout-analyzer/#/load/7vvBL3N2
+http://patorjk.com/keyboard-layout-analyzer/#/load/4gHPln4m
